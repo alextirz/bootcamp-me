@@ -1,0 +1,23 @@
+body {
+    background: darkcyan;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+    margin: 0;
+}
+
+p+p {
+    margin-top: 5px;
+}
+
+img {
+    border-radius: 10px;
+    margin-top: 10px;
+}
